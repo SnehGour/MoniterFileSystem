@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MoniterFileSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\Users\\snehg\\OneDrive\\Desktop\\GettingPowerFull\\dotNet\\ConsoleCronsWatcher\\in\\data1.csv"
+    }
+  }
+}
